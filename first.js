@@ -1,2 +1,3 @@
-console.log("hello world");
-console.log("azad");
+fullNAME ="awadh";
+console.log(fullNAME);
+
